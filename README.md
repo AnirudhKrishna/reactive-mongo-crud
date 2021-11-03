@@ -1,6 +1,13 @@
 # spring-boot-embedded-mongo
 Sample project with spring webflux and embedded mongo
 
+# git clone
+
+~~~
+git clone https://github.com/AnirudhKrishna/reactive-mongo-crud.git
+~~~
+
+
 # to build application 
 
 ~~~
