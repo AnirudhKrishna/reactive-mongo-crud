@@ -1,0 +1,16 @@
+spring:
+  data:
+    mongodb:
+      database: testDB
+      port: 2777
+      host: localhost
+      collection: product
+logging:
+  level:
+    root: DEBUG
+    com:
+      delta:
+        rm: DEBUG
+    org:
+      springframework: DEBUG
+
